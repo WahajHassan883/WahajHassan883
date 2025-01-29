@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WahajHassan883
+- 👋 Hi, I’m @WahajHassan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
