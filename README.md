@@ -2,6 +2,8 @@
 
 I'm a passionate **Front-End Developer** focused on building clean, user-friendly, and responsive web interfaces. I love turning ideas into elegant digital experiences using modern web technologies.
 
+---
+
 ## 🚀 About Me
 
 - 🎓 Currently learning and exploring advanced **Front-End Development**
@@ -9,9 +11,13 @@ I'm a passionate **Front-End Developer** focused on building clean, user-friendl
 - 🌱 Continuously improving in **UI/UX design**, **web performance**, and **best practices**
 - 💡 Eager to build real-world applications and collaborate on meaningful projects
 
+---
+  
 ## 🔗 Contact Me
 
 - 📧 Email: wahajhassansyed@gmail.com  
+
+---
 
 ## 📁 Projects
 
@@ -24,6 +30,8 @@ Here are some of the projects I've been working on:
 
 > All projects follow responsive design and are built with best practices in mind.
 
+---
+
 ## 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -35,4 +43,6 @@ Here are some of the projects I've been working on:
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Thanks for stopping by! Let's connect and build something awesome together. 🚀
+---
+
+Thanks for visiting my profile! Let’s connect and build something awesome together. 🚀
