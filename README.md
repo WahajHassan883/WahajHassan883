@@ -106,16 +106,7 @@ Real-time blog management app with full CRUD powered by Supabase, deployed on Ve
 ---
 
 ## 🏅 Commit Style Grade
-feat: add new feature          → A+  ✅
-fix: resolve critical bug      → A   ✅
-refactor: clean up codebase    → B+  ✅
-style: update UI components    → B   ✅
-docs: update README            → B-  ✅
-chore: update dependencies     → C+  ⚠️
-wip: work in progress          → C   ⚠️
-hotfix: emergency patch        → C-  ⚠️
-temp: temporary solution       → D   ❌
-bad commit message             → F   ❌
+
 
 > 💡 Clean commits = clean code. Every commit tells a story.
 
